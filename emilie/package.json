@@ -1,5 +1,8 @@
 {
 	"name": "emilie",
 	"version": "0.1.0",
-	"description": "Playable Emilie mod"
+	"description": "Playable Emilie mod",
+	"ccmodDependencies": {
+		"menu-ui-replacer": "1.0.2"
+	}
 }
