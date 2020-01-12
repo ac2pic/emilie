@@ -1,0 +1,7 @@
+[{
+	"type": "INCLUDE",
+	"src": "mod:patches/data/players/emilie_neutral_arts.json"
+},{
+	"type": "INCLUDE",
+	"src": "mod:patches/data/players/emilie_heat_arts.json"
+}]
