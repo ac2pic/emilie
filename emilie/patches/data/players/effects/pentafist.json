@@ -1,0 +1,407 @@
+{
+    "DOCTYPE": "EFFECT",
+    "ANIMS": {
+        "guiSprites": true,
+        "SUB": [{
+            "name": "SHOCK_DOT1",
+            "sheet": {
+                "src": "media/entity/effects/particles1.png",
+                "offX": 176,
+                "offY": 40,
+                "width": 8,
+                "height": 8
+            },
+            "guiSprites": true,
+            "renderMode": "lighter",
+            "time": 0.4,
+            "flipY": true,
+            "frames": [0]
+        }, {
+            "name": "PENTAGON_FLAT",
+            "sheet": {
+                "src": "media/entity/effects/neutral.png",
+                "offX": 0,
+                "offY": 72,
+                "width": 32,
+                "height": 32
+            },
+            "renderMode": "lighter",
+            "time": 0.066,
+            "repeat": false,
+            "frames": [0]
+        }, {
+            "name": "PENTAGON",
+            "sheet": {
+                "src": "media/entity/effects/neutral.png",
+                "offX": 0,
+                "offY": 72,
+                "width": 32,
+                "height": 32
+            },
+            "renderMode": "lighter",
+            "time": 0.066,
+            "repeat": false,
+            "frames": [0, 1, 2, 3, 4, 5]
+        }, {
+            "name": "PENTAGON_LOOP",
+            "sheet": {
+                "src": "media/entity/effects/neutral.png",
+                "offX": 0,
+                "offY": 72,
+                "width": 32,
+                "height": 32
+            },
+            "renderMode": "lighter",
+            "time": 0.033,
+            "repeat": true,
+            "frames": [0, 1, 2, 3, 4, 5]
+        }]
+    },
+    "FACEANIMS": {
+        "namedSheets": {
+            "PUNCH_NEUTRAL": {
+                "src": "media/effects/pentafist-punch_patch.png",
+                "xCount": 5,
+                "offX": 0,
+                "offY": 0,
+                "width": 40,
+                "height": 32
+            },
+            "PUNCH_HEAT": {
+                "src": "media/effects/pentafist-punch_patch.png",
+                "xCount": 5,
+                "offX": 200,
+                "offY": 0,
+                "width": 40,
+                "height": 32
+            },
+            "PUNCH_COLD": {
+                "src": "media/effects/pentafist-punch_patch.png",
+                "xCount": 5,
+                "offX": 400,
+                "offY": 0,
+                "width": 40,
+                "height": 32
+            },
+            "PUNCH_SHOCK": {
+                "src": "media/effects/pentafist-punch_patch.png",
+                "xCount": 5,
+                "offX": 600,
+                "offY": 0,
+                "width": 40,
+                "height": 32
+            },
+            "PUNCH_WAVE": {
+                "src": "media/effects/pentafist-punch_patch.png",
+                "xCount": 5,
+                "offX": 800,
+                "offY": 0,
+                "width": 40,
+                "height": 32
+            },
+            "DRILL_SHOCK": {
+                "src": "media/effects/pentafist-punch_patch.png",
+                "xCount": 5,
+                "offX": 600,
+                "offY": 96,
+                "width": 40,
+                "height": 32
+            }
+        },
+        "SUB": [{
+            "offset": {
+                "x": 0,
+                "y": 12,
+                "z": 12
+            },
+            "guiSprites": true,
+            "dirs": "6",
+            "flipX": [0, 0, 0, 1, 1, 1],
+            "tileOffsets": [0, 5, 10, 10, 5, 0],
+            "dirOffsets": [
+                [6, 0, 12],
+                [12, -4, 0],
+                [8, 6, 0],
+                [-6, 0, 2],
+                [-14, 0, 12],
+                [-10, 0, 20]
+            ],
+            "SUB": [{
+                "name": "uppercutNeutral",
+                "sheet": "PUNCH_NEUTRAL",
+                "time": 0.066,
+                "frames": [0, 1, 2, 3, 4]
+            }, {
+                "name": "uppercutHeat",
+                "sheet": "PUNCH_HEAT",
+                "time": 0.066,
+                "frames": [0, 1, 2, 3, 4]
+            }, {
+                "name": "uppercutCold",
+                "sheet": "PUNCH_COLD",
+                "time": 0.066,
+                "frames": [0, 1, 2, 3, 4]
+            }, {
+                "name": "uppercutShock",
+                "sheet": "PUNCH_SHOCK",
+                "time": 0.066,
+                "frames": [0, 1, 2, 3, 4]
+            }, {
+                "name": "uppercutWave",
+                "sheet": "PUNCH_WAVE",
+                "time": 0.066,
+                "frames": [0, 1, 2, 3, 4]
+            }]
+        }, {
+            "offset": {
+                "x": 0,
+                "y": 12,
+                "z": 12
+            },
+            "guiSprites": true,
+            "dirs": "8",
+            "flipX": [0, 0, 0, 0, 0, 0, 0, 0],
+            "tileOffsets": [0, 5, 10, 15, 20, 25, 30, 35],
+            "dirOffsets": [
+                [9, 0, 16],
+                [6, 0, 12],
+                [12, -4, 0],
+                [8, 6, 0],
+                [-7, 4, 0],
+                [-6, 0, 2],
+                [-14, 0, 12],
+                [-10, 0, 20]
+            ],
+            "SUB": [{
+                "name": "drillShock",
+                "sheet": "DRILL_SHOCK",
+                "time": 0.033,
+                "repeat": true,
+                "renderMode": "lighter",
+                "frames": [0, 1, 2]
+            }]
+        }]
+    },
+    "EFFECTS": {
+        "uppercutNeutral": [{
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/sweep-short-hi.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/airon/close-combat-sweep-massive.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "moveWithTarget": 1,
+            "anim": "uppercutNeutral",
+            "type": "PLAY_FACE_ANIM"
+        }],
+        "uppercutHeat": [{
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/sweep-short-hi.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/airon/close-combat-heat-sweep-massive.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "moveWithTarget": 1,
+            "anim": "uppercutHeat",
+            "type": "PLAY_FACE_ANIM"
+        }],
+        "uppercutCold": [{
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/sweep-short-hi.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/airon/cold/close-combat-cold-sweep-massive.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "moveWithTarget": 1,
+            "anim": "uppercutCold",
+            "type": "PLAY_FACE_ANIM"
+        }],
+        "uppercutShock": [{
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/sweep-short-hi.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/airon/shock/close-combat-shock-sweep-massive.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "moveWithTarget": 1,
+            "anim": "uppercutShock",
+            "type": "PLAY_FACE_ANIM"
+        }],
+        "uppercutWave": [{
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/sweep-short-hi.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.05,
+            "speed": 0.9,
+            "sound": "media/sound/battle/airon/wave/close-combat-wave-sweep-massive.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "moveWithTarget": 1,
+            "anim": "uppercutWave",
+            "type": "PLAY_FACE_ANIM"
+        }],
+        "drillShock": [{
+            "volume": 0.5,
+            "global": false,
+            "loop": true,
+            "speed": 2,
+            "sound": "media/sound/battle/special/neutral-screw.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "pAlpha": {
+                "init": 0.5,
+                "start": {
+                    "value": 0,
+                    "time": 0.25,
+                    "spline": ""
+                }
+            },
+            "pScale": {
+                "init": {
+                    "x": 1,
+                    "y": 1
+                },
+                "start": {
+                    "value": {
+                        "x": 2.5,
+                        "y": 2.5
+                    },
+                    "time": 0.25,
+                    "spline": "LINEAR"
+                }
+            },
+            "moveWithTarget": 1,
+            "anim": "drillShock",
+            "type": "PLAY_FACE_ANIM"
+        }, {
+            "pAlpha": {
+                "init": 0.8,
+                "start": {
+                    "value": 0,
+                    "spline": ""
+                }
+            },
+            "pScale": {
+                "init": {
+                    "x": 1,
+                    "y": 1
+                },
+                "start": {
+                    "value": {
+                        "x": 1.5,
+                        "y": 1.5
+                    },
+                    "spline": "LINEAR"
+                }
+            },
+            "moveWithTarget": 1,
+            "anim": "drillShock",
+            "type": "PLAY_FACE_ANIM"
+        }, {
+            "moveWithTarget": 1,
+            "anim": "drillShock",
+            "type": "PLAY_FACE_ANIM"
+        }, {
+            "type": "LOOP_START"
+        }, {
+            "moveWithTarget": 1,
+            "anim": "drillShock",
+            "type": "PLAY_FACE_ANIM"
+        }, {
+            "volume": 0.5,
+            "global": false,
+            "loop": true,
+            "speed": 2,
+            "variance": 0.1,
+            "offset": 0.5,
+            "sound": "media/sound/battle/special/neutral-screw.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "volume": 1,
+            "global": false,
+            "loop": false,
+            "variance": 0.2,
+            "speed": 1,
+            "sound": "media/sound/battle/shock-add-4.ogg",
+            "type": "PLAY_SOUND"
+        }, {
+            "numParticles": 5,
+            "duration": 0.4,
+            "centralAngle": 1,
+            "startDist": 0,
+            "random": true,
+            "particleRotate": true,
+            "moveDist": 64,
+            "moveVariance": 16,
+            "keySpline": "EASE_OUT",
+            "useTargetAngle": true,
+            "moveRotate": 0,
+            "inverse": false,
+            "collision": false,
+            "pAlpha": {
+                "init": 1,
+                "end": {
+                    "value": 0,
+                    "time": 0.3,
+                    "spline": ""
+                }
+            },
+            "particleDuration": 0.35,
+            "anim": "SHOCK_DOT1",
+            "type": "OFFSET_PARTICLE_CIRCLE"
+        }, {
+            "time": 0.1,
+            "type": "WAIT"
+        }, {
+            "type": "LOOP_END"
+        }]
+    }
+}
