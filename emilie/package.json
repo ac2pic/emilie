@@ -4,7 +4,7 @@
 	"description": "Playable Emilie mod",
 	"ccmodDependencies": {
 		"menu-ui-replacer": "1.x.x",
-		"unified-steps": "1.x.x"
+		"unified-steps": "0.x.x"
 	},
 	"assets": [
 		"assets/data/menu.json.patch",
