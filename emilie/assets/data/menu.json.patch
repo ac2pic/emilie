@@ -6,15 +6,15 @@
 		"gfx": "media/gui/menu-emilie.png",
 		"Large": {
 			"gfxOffX": -32,
-			"gfxOffY": 0,
+			"gfxOffY": -13,
 			"offX": 0,
 			"offY": 23,
 			"sizeX": 190,
 			"sizeY": 408
 		},
 		"Small": {
-			"gfxOffX": -24,
-			"gfxOffY": -3,
+			"gfxOffX": -22,
+			"gfxOffY": -7,
 			"offX": 198,
 			"offY": 23,
 			"sizeX": 130,
