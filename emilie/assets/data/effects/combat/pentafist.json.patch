@@ -60,7 +60,7 @@
     "FACEANIMS": {
         "namedSheets": {
             "PUNCH_NEUTRAL": {
-                "src": "media/effects/pentafist-punch_patch.png",
+                "src": "media/entity/pentafist/punch.png",
                 "xCount": 5,
                 "offX": 0,
                 "offY": 0,
@@ -68,7 +68,7 @@
                 "height": 32
             },
             "PUNCH_HEAT": {
-                "src": "media/effects/pentafist-punch_patch.png",
+                "src": "media/entity/pentafist/punch.png",
                 "xCount": 5,
                 "offX": 200,
                 "offY": 0,
@@ -76,7 +76,7 @@
                 "height": 32
             },
             "PUNCH_COLD": {
-                "src": "media/effects/pentafist-punch_patch.png",
+                "src": "media/entity/pentafist/punch.png",
                 "xCount": 5,
                 "offX": 400,
                 "offY": 0,
@@ -84,7 +84,7 @@
                 "height": 32
             },
             "PUNCH_SHOCK": {
-                "src": "media/effects/pentafist-punch_patch.png",
+                "src": "media/entity/pentafist/punch.png",
                 "xCount": 5,
                 "offX": 600,
                 "offY": 0,
@@ -92,7 +92,7 @@
                 "height": 32
             },
             "PUNCH_WAVE": {
-                "src": "media/effects/pentafist-punch_patch.png",
+                "src": "media/entity/pentafist/punch.png",
                 "xCount": 5,
                 "offX": 800,
                 "offY": 0,
@@ -100,7 +100,7 @@
                 "height": 32
             },
             "DRILL_SHOCK": {
-                "src": "media/effects/pentafist-punch_patch.png",
+                "src": "media/entity/pentafist/punch.png",
                 "xCount": 5,
                 "offX": 600,
                 "offY": 96,

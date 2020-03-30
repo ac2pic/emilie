@@ -51,7 +51,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "whiteAndGrowIn"
                 },
                 "offset": {
@@ -73,7 +73,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "rocketTrail1"
                 },
                 "offset": {
@@ -111,7 +111,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "rocketBoom"
                 },
                 "offset": {
@@ -219,7 +219,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "whiteAndGrowInFast"
                 },
                 "offset": {
@@ -241,7 +241,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "rocketTrail2"
                 },
                 "offset": {
@@ -318,7 +318,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "dynamoAim"
                 },
                 "offset": {
@@ -352,7 +352,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "rocketTrail2"
                 },
                 "offset": {
@@ -422,7 +422,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "rocketBoom"
                 },
                 "offset": {
@@ -530,7 +530,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "whiteAndGrowInFast"
                 },
                 "offset": {
@@ -552,7 +552,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "rocketTrail2"
                 },
                 "offset": {
@@ -629,7 +629,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "dynamoAim"
                 },
                 "offset": {
@@ -663,7 +663,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "rocketTrail2"
                 },
                 "offset": {
@@ -733,7 +733,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "rocketBoom"
                 },
                 "offset": {
@@ -817,7 +817,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "blueMeteorMarker"
                 },
                 "offset": {
@@ -858,7 +858,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "meteorTrailBlue"
                 },
                 "offset": {
@@ -930,7 +930,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatBigBlastBlue"
                 },
                 "offset": {
@@ -1046,7 +1046,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "meteorTrailBlue"
                 },
                 "offset": {
@@ -1072,7 +1072,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatBigBlastBlue"
                 },
                 "offset": {
@@ -1165,7 +1165,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatSmallBoomBlue"
                     },
                     "offset": {
@@ -1217,7 +1217,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "meteorLaunchAuraBlue"
                 },
                 "offset": {
@@ -1676,7 +1676,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatCharge"
                 },
                 "offset": {
@@ -1794,7 +1794,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "pentaGuardNeutral2"
                 },
                 "offset": {
@@ -1834,7 +1834,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "flameSpark"
                 },
                 "offset": {
@@ -2275,7 +2275,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatCharge"
                 },
                 "offset": {
@@ -2352,7 +2352,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatBigBoom"
                 },
                 "offset": {
@@ -2413,7 +2413,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "growInVeryFast"
                 },
                 "offset": {
@@ -2432,7 +2432,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "flameLoop"
                 },
                 "offset": {
@@ -2513,7 +2513,7 @@
             "hp": 0,
             "stickToSource": "NONE",
             "killEffect": {
-                "sheet": "emilie_patch",
+                "sheet": "emilie",
                 "name": "flameSparkDie"
             },
             "group": "protective",
@@ -2561,7 +2561,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "growInVeryFast"
                 },
                 "offset": {
@@ -2580,7 +2580,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "flameLoop"
                 },
                 "offset": {
@@ -2679,7 +2679,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "bifrostHit"
                     },
                     "offset": {
@@ -2706,7 +2706,7 @@
             "hp": 0,
             "stickToSource": "NONE",
             "killEffect": {
-                "sheet": "emilie_patch",
+                "sheet": "emilie",
                 "name": "flameSparkDie"
             },
             "group": "protective",
@@ -2750,7 +2750,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "growInSmall"
                 },
                 "offset": {
@@ -2769,7 +2769,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "flameLoop"
                 },
                 "offset": {
@@ -2851,7 +2851,7 @@
             "invisible": false,
             "hp": 3.5,
             "killEffect": {
-                "sheet": "emilie_patch",
+                "sheet": "emilie",
                 "name": "flameSparkDie"
             },
             "stickToSource": "NONE",
@@ -2896,7 +2896,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "growInSmall"
                 },
                 "offset": {
@@ -2915,7 +2915,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "flameLoop"
                 },
                 "offset": {
@@ -3091,7 +3091,7 @@
             "invisible": false,
             "hp": 4.5,
             "killEffect": {
-                "sheet": "emilie_patch",
+                "sheet": "emilie",
                 "name": "flameSparkDie"
             },
             "stickToSource": "NONE",
@@ -3158,7 +3158,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "bifrostCharge"
                 },
                 "offset": {
@@ -3177,7 +3177,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "growInSlow"
                 },
                 "offset": {
@@ -3213,7 +3213,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "bifrostLoop"
                 },
                 "offset": {
@@ -3378,7 +3378,7 @@
                         "fixPos": false,
                         "type": "SHOW_EFFECT",
                         "effect": {
-                            "sheet": "emilie_patch",
+                            "sheet": "emilie",
                             "name": "bifrostChargeSmall"
                         },
                         "offset": {
@@ -3426,7 +3426,7 @@
             "invisible": false,
             "hp": 5.5,
             "killEffect": {
-                "sheet": "emilie_patch",
+                "sheet": "emilie",
                 "name": "bifrostSparkDie"
             },
             "stickToSource": "NONE",
@@ -3461,7 +3461,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatChaserCharge"
                 },
                 "offset": {
@@ -3489,7 +3489,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatSmallBoom"
                 },
                 "offset": {
@@ -3508,7 +3508,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatDummyAura"
                 },
                 "offset": {
@@ -3533,7 +3533,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "pentafist_patch",
+                    "sheet": "combat.pentafist",
                     "name": "uppercutHeat"
                 },
                 "offset": {
@@ -3638,7 +3638,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatBlastCharge"
                 },
                 "offset": {
@@ -3686,7 +3686,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatSmallBoom"
                 },
                 "offset": {
@@ -3705,7 +3705,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatDummyAura"
                 },
                 "offset": {
@@ -3730,7 +3730,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "pentafist_patch",
+                    "sheet": "combat.pentafist",
                     "name": "uppercutHeat"
                 },
                 "offset": {
@@ -3867,7 +3867,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatBigBlast"
                 },
                 "offset": {
@@ -4150,7 +4150,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatBlastCharge"
                 },
                 "offset": {
@@ -4191,7 +4191,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatMiniBlast"
                 },
                 "offset": {
@@ -4333,7 +4333,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatMirageAura2"
                 },
                 "offset": {
@@ -4540,7 +4540,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatChaserCharge"
                 },
                 "offset": {
@@ -4568,7 +4568,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatSmallBoom"
                 },
                 "offset": {
@@ -4587,7 +4587,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "emilie_patch",
+                    "sheet": "emilie",
                     "name": "heatDummyAura"
                 },
                 "offset": {
@@ -4612,7 +4612,7 @@
                 "fixPos": false,
                 "type": "SHOW_EFFECT",
                 "effect": {
-                    "sheet": "pentafist_patch",
+                    "sheet": "combat.pentafist",
                     "name": "uppercutHeat"
                 },
                 "offset": {
@@ -4804,7 +4804,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatLariatWhirl"
                     },
                     "offset": {
@@ -4987,7 +4987,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "flameSpark"
                     },
                     "offset": {
@@ -5051,7 +5051,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatBlastCharge"
                     },
                     "offset": {
@@ -5119,7 +5119,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "infernoJab"
                     },
                     "offset": {
@@ -5242,7 +5242,7 @@
                     "fixPos": true,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "infernoJabEnd"
                     },
                     "offset": {
@@ -5261,7 +5261,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "infernoJabEnd2"
                     },
                     "offset": {
@@ -5285,7 +5285,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "pentafist_patch",
+                        "sheet": "combat.pentafist",
                         "name": "uppercutHeat"
                     },
                     "offset": {
@@ -5557,7 +5557,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatLariatWhirl"
                     },
                     "offset": {
@@ -5579,7 +5579,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "flameSpark"
                     },
                     "offset": {
@@ -5926,7 +5926,7 @@
                     "type": "SHOW_EFFECT",
                     "group": "screen",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatSubChargeBallBlue"
                     },
                     "offset": {
@@ -5969,7 +5969,7 @@
                     "type": "SHOW_EFFECT",
                     "group": "screen",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatBigBlastBlue"
                     },
                     "offset": {
@@ -5989,7 +5989,7 @@
                     "type": "SHOW_EFFECT",
                     "group": "screen",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "flameDashBlue"
                     },
                     "offset": {
@@ -6115,7 +6115,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "flameJabBlue"
                     }
                 }, {
@@ -6321,7 +6321,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "flameJabBlue"
                     }
                 }, {
@@ -6541,7 +6541,7 @@
                     "group": "jab",
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "infernoJabBlue"
                     },
                     "offset": {
@@ -6634,7 +6634,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatSubChargeBlue"
                     },
                     "offset": {
@@ -6677,7 +6677,7 @@
                     "fixPos": true,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "infernoJabBlueEnd"
                     },
                     "offset": {
@@ -6696,7 +6696,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "infernoJabBlueEnd2"
                     },
                     "offset": {
@@ -6720,7 +6720,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "pentafist_patch",
+                        "sheet": "combat.pentafist",
                         "name": "uppercutCold"
                     },
                     "offset": {
@@ -6999,7 +6999,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatLariatWhirl"
                     },
                     "offset": {
@@ -7070,7 +7070,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "flameSpark"
                     },
                     "offset": {
@@ -7201,7 +7201,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatStarBoomCharge"
                     },
                     "offset": {
@@ -7221,7 +7221,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatStarCharge"
                     },
                     "offset": {
@@ -7359,7 +7359,7 @@
                         "fixPos": false,
                         "type": "SHOW_EFFECT",
                         "effect": {
-                            "sheet": "emilie_patch",
+                            "sheet": "emilie",
                             "name": "heatLariatWhirl2"
                         },
                         "offset": {
@@ -7383,7 +7383,7 @@
                         "fixPos": false,
                         "type": "SHOW_EFFECT",
                         "effect": {
-                            "sheet": "emilie_patch",
+                            "sheet": "emilie",
                             "name": "heatLariatWhirl3"
                         },
                         "offset": {
@@ -7511,7 +7511,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatBigBoom"
                     },
                     "offset": {
@@ -7632,7 +7632,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatMirageAura"
                     },
                     "offset": {
@@ -8012,7 +8012,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatMirageAura"
                     },
                     "offset": {
@@ -8390,7 +8390,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "heatMirageAura"
                     },
                     "offset": {
@@ -9504,7 +9504,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "flameSpark"
                     },
                     "offset": {
@@ -9696,7 +9696,7 @@
                         "fixPos": false,
                         "type": "SHOW_EFFECT",
                         "effect": {
-                            "sheet": "pentafist_patch",
+                            "sheet": "combat.pentafist",
                             "name": "uppercutHeat"
                         },
                         "offset": {
@@ -9982,7 +9982,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "flameSpark"
                     },
                     "offset": {
@@ -10072,7 +10072,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "bifrostChargeSmall"
                     },
                     "offset": {
@@ -10321,7 +10321,7 @@
                     "fixPos": false,
                     "type": "SHOW_EFFECT",
                     "effect": {
-                        "sheet": "emilie_patch",
+                        "sheet": "emilie",
                         "name": "bifrostFlash"
                     },
                     "offset": {
@@ -10602,7 +10602,7 @@
                         "fixPos": false,
                         "type": "SHOW_EFFECT",
                         "effect": {
-                            "sheet": "pentafist_patch",
+                            "sheet": "combat.pentafist",
                             "name": "uppercutHeat"
                         },
                         "offset": {
@@ -10781,7 +10781,7 @@
                         "fixPos": false,
                         "type": "SHOW_EFFECT",
                         "effect": {
-                            "sheet": "emilie_patch",
+                            "sheet": "emilie",
                             "name": "heatCharge"
                         },
                         "offset": {

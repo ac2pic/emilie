@@ -4,7 +4,7 @@
         "SUB": [{
             "name": "FLAME1_BLUE",
             "sheet": {
-                "src": "media/effects/heat_blue.png",
+                "src": "media/entity/effects/heat_blue.png",
                 "offX": 0,
                 "offY": 368,
                 "width": 24,
@@ -17,7 +17,7 @@
         }, {
             "name": "FLAME2_BLUE",
             "sheet": {
-                "src": "media/effects/heat_blue.png",
+                "src": "media/entity/effects/heat_blue.png",
                 "offX": 0,
                 "offY": 392,
                 "width": 24,
@@ -29,7 +29,7 @@
         }, {
             "name": "SWEEP_HEAT2_BLUE",
             "sheet": {
-                "src": "media/effects/heat_blue.png",
+                "src": "media/entity/effects/heat_blue.png",
                 "width": 64,
                 "height": 64,
                 "offY": 96,
@@ -48,7 +48,7 @@
         }, {
             "name": "EXPLOSION_BIG_BLUE",
             "sheet": {
-                "src": "media/effects/heat_blue.png",
+                "src": "media/entity/effects/heat_blue.png",
                 "width": 48,
                 "height": 48,
                 "xCount": 6
@@ -194,7 +194,7 @@
         }, {
             "name": "SMALL_BALL2_BLUE",
             "sheet": {
-                "src": "media/effects/heat_blue.png",
+                "src": "media/entity/effects/heat_blue.png",
                 "width": 16,
                 "height": 16,
                 "offX": 288,
@@ -377,7 +377,7 @@
         }, {
             "name": "BIGFIRE_BACK_BLUE",
             "sheet": {
-                "src": "media/effects/heat_blue.png",
+                "src": "media/entity/effects/heat_blue.png",
                 "xCount": 6,
                 "offX": 0,
                 "offY": 0,
@@ -417,7 +417,7 @@
         }, {
             "name": "SMALL_BALL_BLUE",
             "sheet": {
-                "src": "media/effects/heat_blue.png",
+                "src": "media/entity/effects/heat_blue.png",
                 "width": 16,
                 "height": 16,
                 "offX": 288,
