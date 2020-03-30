@@ -3,7 +3,8 @@
 	"content": {
 		"DOCTYPE":"MENU_GUI_CONFIG",
 		"name": "Emilie",
-		"gfx": "media/gui/menu-emilie.png",
+		"gfx": "media/gui/emilie/menu.png",
+		"circuitIconGfx": "media/gui/emilie/circuit-icons.png",
 		"Large": {
 			"gfxOffX": -32,
 			"gfxOffY": -13,
