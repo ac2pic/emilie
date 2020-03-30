@@ -98,7 +98,7 @@
                 "y": 24
             },
             "sheet": {
-                "src": "media/entity/emilie/effects/wave_hand.png",
+                "src": "media/entity/effects/emilie/wave_hand.png",
                 "offX": 352,
                 "offY": 0,
                 "width": 48,
@@ -403,7 +403,7 @@
         }, {
             "name": "WAVE_QUAKE_SMALL",
             "sheet": {
-                "src": "media/entity/emilie/effects/wave_hand.png",
+                "src": "media/entity/effects/emilie/wave_hand.png",
                 "offX": 0,
                 "offY": 0,
                 "width": 4,
@@ -629,7 +629,7 @@
     "FACEANIMS": {
         "SUB": [{
             "sheet": {
-                "src": "media/entity/emilie/effects/wave_hand.png",
+                "src": "media/entity/effects/emilie/wave_hand.png",
                 "offX": 400,
                 "offY": 0,
                 "width": 32,
@@ -6894,7 +6894,7 @@
             "renderMode": "lighter",
             "particleDuration": 0.35,
             "pattern": {
-                "src": "media/entity/emilie/effects/wave_hand.png",
+                "src": "media/entity/effects/emilie/wave_hand.png",
                 "xCount": 9,
                 "offX": 0,
                 "offY": 192,
@@ -7209,7 +7209,7 @@
             "renderMode": "lighter",
             "particleDuration": 0.3,
             "pattern": {
-                "src": "media/entity/emilie/effects/wave_hand.png",
+                "src": "media/entity/effects/emilie/wave_hand.png",
                 "xCount": 10,
                 "offX": 0,
                 "offY": 192,
@@ -7245,7 +7245,7 @@
             "renderMode": "lighter",
             "particleDuration": 0.3,
             "pattern": {
-                "src": "media/entity/emilie/effects/wave_hand.png",
+                "src": "media/entity/effects/emilie/wave_hand.png",
                 "xCount": 10,
                 "offX": 0,
                 "offY": 192,
@@ -7499,7 +7499,7 @@
             "renderMode": "lighter",
             "particleDuration": 0.35,
             "pattern": {
-                "src": "media/entity/emilie/effects/wave_hand.png",
+                "src": "media/entity/effects/emilie/wave_hand.png",
                 "xCount": 10,
                 "offX": 0,
                 "offY": 192,

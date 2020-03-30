@@ -18,7 +18,7 @@
             "animation": {
                 "name": "default",
                 "sheet": {
-                    "src": "media/entity/emilie/effects/wave_hand.png",
+                    "src": "media/entity/effects/emilie/wave_hand.png",
                     "offX": 8,
                     "offY": 64,
                     "width": 24,
