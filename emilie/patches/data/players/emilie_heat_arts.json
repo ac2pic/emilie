@@ -6,7 +6,7 @@
                 "SUB": [{
                     "name": "default",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 0,
                         "offY": 256,
                         "width": 24,
@@ -174,7 +174,7 @@
                 "SUB": [{
                     "name": "default",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 0,
                         "offY": 256,
                         "width": 24,
@@ -485,7 +485,7 @@
                 "SUB": [{
                     "name": "default",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 0,
                         "offY": 280,
                         "width": 24,
@@ -2378,7 +2378,7 @@
                 "SUB": [{
                     "name": "default",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 28,
                         "offY": 40,
                         "width": 17,
@@ -2534,7 +2534,7 @@
                 "SUB": [{
                     "name": "default",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 28,
                         "offY": 40,
                         "width": 17,
@@ -2726,7 +2726,7 @@
                 "SUB": [{
                     "name": "default",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 80,
                         "offY": 0,
                         "width": 24,
@@ -2872,7 +2872,7 @@
                 "SUB": [{
                     "name": "default",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 80,
                         "offY": 0,
                         "width": 24,
@@ -3112,7 +3112,7 @@
                 "SUB": [{
                     "name": "empty",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 80,
                         "offY": 32,
                         "width": 1,
@@ -3125,7 +3125,7 @@
                 }, {
                     "name": "default",
                     "sheet": {
-                        "src": "media/effects/emilie_patch.png",
+                        "src": "media/entity/emilie/effects/wave_hand.png",
                         "offX": 80,
                         "offY": 32,
                         "width": 48,

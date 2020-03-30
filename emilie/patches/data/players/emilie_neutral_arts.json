@@ -18,7 +18,7 @@
             "animation": {
                 "name": "default",
                 "sheet": {
-                    "src": "media/effects/emilie_patch.png",
+                    "src": "media/entity/emilie/effects/wave_hand.png",
                     "offX": 8,
                     "offY": 64,
                     "width": 24,
