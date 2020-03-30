@@ -3,7 +3,7 @@
     "version": "0.1.1",
     "description": "Playable Emilie mod",
     "ccmodDependencies": {
-        "menu-ui-replacer": "1.x.x",
+        "party-player": "1.x.x",
         "unified-steps": "0.x.x"
     },
     "assets": ["assets/data/menu.json.patch", "assets/media/gui/menu-emilie.png"]
