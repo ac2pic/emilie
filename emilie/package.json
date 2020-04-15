@@ -1,10 +1,13 @@
 {
     "name": "emilie",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "description": "Playable Emilie mod",
     "ccmodDependencies": {
         "party-player": "1.x.x",
         "unified-steps": "0.x.x"
     },
-    "assets": ["assets/data/menu.json.patch", "assets/media/gui/menu-emilie.png"]
+    "assets": [
+        "assets/data/menu.json.patch",
+        "assets/media/gui/menu-emilie.png"
+    ]
 }
