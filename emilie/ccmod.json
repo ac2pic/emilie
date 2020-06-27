@@ -2,8 +2,10 @@
     "id": "emilie",
     "version": "1.0.0",
     "description": "Playable Emilie mod",
-    "ccmodDependencies": {
-        "party-player": "1.x.x",
+    "main": "main.js",
+    "dependencies": {
+        "cc-custom-character-toolkit": "1.x.x",
+        "utility-resource-organizer": "0.1.0",
         "unified-steps": "0.x.x"
     },
     "assets": [
