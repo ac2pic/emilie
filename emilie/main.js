@@ -3,7 +3,7 @@ export default class Emilie {
         this.mod = mod;
     }
 
-    async preload() {
+    async registerResourceGenerator() {
         await UtilityResourceManager.addResourceGenerator('menu-ui-replacer', async () => {
             const response = await fetch(`/${this.mod.baseDirectory}menu-gui-config.json`);
             return {
