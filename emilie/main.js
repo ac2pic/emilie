@@ -3,12 +3,12 @@ export default class Emilie {
         this.mod = mod;
     }
 
-    async registerResourceGenerator() {
-        await UtilityResourceManager.addResourceGenerator('menu-ui-replacer', async () => {
-            const response = await fetch(`/${this.mod.baseDirectory}menu-gui-config.json`);
+    async registerResourceGenerators() {
+        await UtilityResourceManager.addResourceGenerator('custom-character-config', async () => {
+            const response = await fetch(`/${this.mod.baseDirectory}character-config.json`);
             return {
                 mod: this.mod,
-                menuConfig: await response.json()
+                config: await response.json()
             };
         });
     }

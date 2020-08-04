@@ -1,5 +1,5 @@
 {
-    "DOCTYPE": "MENU_GUI_CONFIG",
+    "DOCTYPE": "CUSTOM_CHARACTER_CONFIG",
     "name": "Emilie",
     "gfx": "media/gui/emilie/menu.png",
     "circuitIconGfx": "media/gui/emilie/circuit-icons.png",
