@@ -7,9 +7,5 @@
         "cc-custom-character-toolkit": "1.x.x",
         "utility-resource-organizer": "1.x.x",
         "unified-steps": "0.x.x"
-    },
-    "assets": [
-        "assets/data/menu.json.patch",
-        "assets/media/gui/menu-emilie.png"
-    ]
+    }
 }
