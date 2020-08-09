@@ -1,11 +1,14 @@
 {
     "id": "emilie",
     "version": "1.0.0",
-    "description": "Playable Emilie mod",
+    "description": {
+        "en_US": "Playable Emilie mod"
+    },
     "main": "main.js",
     "dependencies": {
         "cc-custom-character-toolkit": "1.x.x",
         "utility-resource-organizer": "1.x.x",
         "unified-steps": "0.x.x"
-    }
+    },
+	"homepage": "https://github.com/CCDirectLink/emilie"
 }
