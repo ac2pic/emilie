@@ -6,7 +6,7 @@
     },
     "main": "main.js",
     "dependencies": {
-        "cc-custom-character-toolkit": "1.x.x",
+        "char-toolkit": "1.x.x",
         "utility-resource-organizer": "1.x.x",
         "unified-steps": "0.x.x"
     },
