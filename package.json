@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "format": "npm run minify-json && npm run json-beautify && npm run js-beautify",
-    "minify-json": "minify-json ./emilie/",
-    "js-beautify": "js-beautify -js -q -r -f ./emilie/**/*.js",
-    "json-beautify": "js-beautify -js -r -f ./emilie/**/*.json"
+    "minify-json": "minify-json ./",
+    "js-beautify": "js-beautify -js -q -r -f ./**/*.js",
+    "json-beautify": "js-beautify -js -r -f ./**/*.json"
   },
   "repository": {
     "type": "git",
