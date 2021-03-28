@@ -8,7 +8,11 @@
     "dependencies": {
         "char-toolkit": "1.x.x",
         "utility-resource-organizer": "1.x.x",
-        "unified-steps": "0.x.x"
+        "unified-steps": "0.x.x", 
+        "char-select" : {
+            "version": "1.x.x",
+            "optional": true
+        }
     },
 	"homepage": "https://github.com/CCDirectLink/emilie"
 }
